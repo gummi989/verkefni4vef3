@@ -1,0 +1,39 @@
+html {
+    box-sizing: border-box;
+    background: url("/static/money.jpg") no-repeat;
+    background-size: auto 100vh;
+    background-position-x: center;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+body {
+    max-width: 50em;
+    margin: 1em auto;
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 1em;
+}
+table {
+    margin: 0 auto;
+}
+table thead {
+    background-color: #aaa;
+}
+table th {
+    padding: 0.5em;
+}
+table tr:nth-of-type(even) {
+    background-color: lightgray;
+}
+header, footer {
+    text-align: center;
+}
+header {
+    padding-top: 0.5em;
+}
+footer {
+    padding: 1em;
+}
+h2 {
+    text-align: center;
+}
