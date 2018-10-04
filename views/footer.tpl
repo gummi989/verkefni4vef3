@@ -1,3 +1,3 @@
 <footer>
-    <small>&copy; 2018 Reynir Aron Magnússon</small>
+    <small>&copy; Guðmundur Natan Harðarson</small>
 </footer>
